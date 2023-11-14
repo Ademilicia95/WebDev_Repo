@@ -1,1 +1,2 @@
 Olá git!
+Primeiro ficheiro com alteração!
